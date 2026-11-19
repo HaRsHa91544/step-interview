@@ -12,7 +12,7 @@
 - Each group interviews minimum of 30 mins for every member 
 - For every member:
   - Ask 1 unexpected or different question (to make them confused or fearful).
-  - OR ask them to explain 1 different, unfamiliar concept and then apply it.
+  - OR explain them 1 different, unfamiliar concept and then ask them to apply it.
 
 ### Interview Process:
 
@@ -32,7 +32,9 @@
 2. Don't avoid unfamiliar problems.
 3. Don't hide mistakes.
 
-## 3. Everyday: GitHub Log
+## 3. Everyday: GitHub Log 
+
+### Everyone should maintain GitHub streaks daily.
 
 Every day, answer these three questions:
 
